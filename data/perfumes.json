@@ -1,0 +1,386 @@
+[
+  {
+    "id": "1",
+    "name": "Chanel No. 5",
+    "brand": "Chanel",
+    "concentration": "Eau de Parfum",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400",
+    "notes": {
+      "top": ["Aldehydes", "Ylang-Ylang", "Neroli", "Bergamot", "Lemon"],
+      "middle": ["Iris", "Jasmine", "Rose", "Orris Root", "Lily of the Valley"],
+      "base": ["Civet", "Vanilla", "Sandalwood", "Vetiver", "Patchouli", "Amber"]
+    },
+    "description": "An iconic floral aldehyde fragrance for women",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 125.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/chanel-no5",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 135.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/chanel-no5",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 132.50,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/chanel-no5",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 119.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/chanel-no5",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Sauvage",
+    "brand": "Dior",
+    "concentration": "Eau de Toilette",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400",
+    "notes": {
+      "top": ["Calabrian Bergamot", "Pepper"],
+      "middle": ["Sichuan Pepper", "Lavender", "Pink Pepper", "Vetiver", "Patchouli", "Geranium", "Elemi"],
+      "base": ["Ambroxan", "Cedar", "Labdanum"]
+    },
+    "description": "A fresh and woody masculine fragrance",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 89.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/dior-sauvage",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 95.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/dior-sauvage",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 92.50,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/dior-sauvage",
+        "inStock": false,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 85.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/dior-sauvage",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "La Vie Est Belle",
+    "brand": "Lancôme",
+    "concentration": "Eau de Parfum",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59bd9?w=400",
+    "notes": {
+      "top": ["Black Currant", "Pear"],
+      "middle": ["Iris", "Jasmine", "Orange Blossom"],
+      "base": ["Praline", "Vanilla", "Patchouli", "Tonka Bean"]
+    },
+    "description": "A sweet and floral gourmand fragrance",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 99.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/lancome-vie-est-belle",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 108.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/lancome-vie-est-belle",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 105.00,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/lancome-vie-est-belle",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 95.50,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/lancome-vie-est-belle",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "concentration": "Eau de Parfum",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1565115842887-56e91a40e3bc?w=400",
+    "notes": {
+      "top": ["Grapefruit", "Lemon", "Mint", "Pink Pepper", "Bergamot", "Aldehydes", "Coriander"],
+      "middle": ["Ginger", "Nutmeg", "Jasmine", "Melon"],
+      "base": ["Incense", "Amber", "Cedar", "Sandalwood", "Patchouli", "Labdanum"]
+    },
+    "description": "An aromatic woody fragrance for men",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 115.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/chanel-bleu",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 125.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/chanel-bleu",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 122.00,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/chanel-bleu",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 112.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/chanel-bleu",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Black Opium",
+    "brand": "Yves Saint Laurent",
+    "concentration": "Eau de Parfum",
+    "size": "90ml",
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400",
+    "notes": {
+      "top": ["Pink Pepper", "Orange Blossom", "Pear"],
+      "middle": ["Coffee", "Jasmine", "Bitter Almond", "Licorice"],
+      "base": ["Vanilla", "Patchouli", "Cedar", "Cashmere Wood"]
+    },
+    "description": "A dark and addictive coffee gourmand",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 89.50,
+        "currency": "EUR",
+        "url": "https://www.notino.com/ysl-black-opium",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 98.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/ysl-black-opium",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 94.50,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/ysl-black-opium",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 86.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/ysl-black-opium",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Acqua di Giò",
+    "brand": "Giorgio Armani",
+    "concentration": "Eau de Toilette",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?w=400",
+    "notes": {
+      "top": ["Lime", "Lemon", "Bergamot", "Jasmine", "Orange", "Mandarin Orange"],
+      "middle": ["Sea Notes", "Jasmine", "Calone", "Peach", "Freesia", "Hyacinth", "Cyclamen", "Violet", "Coriander", "Nutmeg", "Mignonette", "Rose"],
+      "base": ["White Musk", "Cedar", "Oakmoss", "Patchouli", "Amber"]
+    },
+    "description": "A fresh aquatic marine fragrance",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 79.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/armani-acqua-di-gio",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 88.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/armani-acqua-di-gio",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 85.00,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/armani-acqua-di-gio",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 75.50,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/armani-acqua-di-gio",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Good Girl",
+    "brand": "Carolina Herrera",
+    "concentration": "Eau de Parfum",
+    "size": "80ml",
+    "image": "https://images.unsplash.com/photo-1594035880319-d4e0aea0f933?w=400",
+    "notes": {
+      "top": ["Almond", "Coffee", "Lemon"],
+      "middle": ["Tuberose", "Jasmine Sambac", "Orris", "Bulgarian Rose"],
+      "base": ["Tonka Bean", "Cacao", "Vanilla", "Sandalwood", "Amber", "Cashmere Wood", "Cinnamon", "Cedar"]
+    },
+    "description": "A bold and feminine oriental fragrance",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 92.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/carolina-herrera-good-girl",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 102.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/carolina-herrera-good-girl",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 98.50,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/carolina-herrera-good-girl",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 89.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/carolina-herrera-good-girl",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "1 Million",
+    "brand": "Paco Rabanne",
+    "concentration": "Eau de Toilette",
+    "size": "100ml",
+    "image": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=400",
+    "notes": {
+      "top": ["Blood Mandarin", "Grapefruit", "Mint", "Rose"],
+      "middle": ["Cinnamon", "Spicy Notes", "Blond Leather"],
+      "base": ["Amber", "Patchouli", "Indian Patchouli", "White Woods"]
+    },
+    "description": "A spicy and leathery masculine scent",
+    "prices": [
+      {
+        "shop": "Notino",
+        "price": 69.99,
+        "currency": "EUR",
+        "url": "https://www.notino.com/paco-rabanne-1-million",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Douglas",
+        "price": 78.00,
+        "currency": "EUR",
+        "url": "https://www.douglas.com/paco-rabanne-1-million",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Sephora EU",
+        "price": 75.00,
+        "currency": "EUR",
+        "url": "https://www.sephora.com/paco-rabanne-1-million",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      },
+      {
+        "shop": "Perfume's Club",
+        "price": 65.95,
+        "currency": "EUR",
+        "url": "https://www.perfumesclub.com/paco-rabanne-1-million",
+        "inStock": true,
+        "lastUpdated": "2025-11-23"
+      }
+    ]
+  }
+]

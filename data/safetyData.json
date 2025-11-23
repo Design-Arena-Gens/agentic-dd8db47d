@@ -1,0 +1,46 @@
+{
+  "trustedDomains": [
+    "notino.com",
+    "douglas.com",
+    "sephora.com",
+    "perfumesclub.com",
+    "perfumesclub.co.uk",
+    "escentual.com",
+    "fragrancex.com",
+    "fragrantica.com",
+    "allbeauty.com",
+    "lookfantastic.com",
+    "feelunique.com"
+  ],
+  "warningIndicators": [
+    {
+      "type": "domain_age",
+      "description": "Domain is less than 6 months old",
+      "severity": "high"
+    },
+    {
+      "type": "no_https",
+      "description": "Website does not use HTTPS",
+      "severity": "critical"
+    },
+    {
+      "type": "suspicious_tld",
+      "description": "Domain uses a suspicious top-level domain",
+      "severity": "medium",
+      "suspiciousTlds": [".tk", ".ml", ".ga", ".cf", ".gq", ".xyz", ".top"]
+    },
+    {
+      "type": "unknown_shop",
+      "description": "Shop is not in our trusted list",
+      "severity": "low"
+    }
+  ],
+  "safetyTips": [
+    "Always check for HTTPS in the URL",
+    "Read customer reviews before purchasing",
+    "Use secure payment methods",
+    "Verify the seller's reputation",
+    "Compare prices - if it's too good to be true, it probably is",
+    "Check the return policy before ordering"
+  ]
+}
